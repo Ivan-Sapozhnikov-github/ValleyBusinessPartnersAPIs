@@ -15,12 +15,12 @@ All data can be exported to Excel (.xlsx) and CSV formats for easy integration i
 
 ## Features
 
-- 🔍 **Comprehensive Business Analysis** - Run all tools at once for complete due diligence
-- 📊 **Excel/CSV Export** - All data exports to spreadsheet formats
-- 🤖 **AI-Powered Insights** - Leverage OpenAI for deep market research
-- 💰 **SBA Loan Intelligence** - Access loan rates and eligibility information
-- 🏢 **Competitive Intelligence** - Identify and analyze market competitors
-- ⭐ **Customer Sentiment** - Analyze Google reviews and ratings
+-  **Comprehensive Business Analysis** - Run all tools at once for complete due diligence
+-  **Excel/CSV Export** - All data exports to spreadsheet formats
+-  **AI-Powered Insights** - Leverage OpenAI for deep market research
+-  **SBA Loan Intelligence** - Access loan rates and eligibility information
+-  **Competitive Intelligence** - Identify and analyze market competitors
+-  **Customer Sentiment** - Analyze Google reviews and ratings
 
 ## Installation
 
